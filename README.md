@@ -10,6 +10,7 @@ This README would normally document whatever steps are necessary to get your app
 ### How do I get set up? ###
 
 * Summary of set up
+![Untitled.jpg](https://bitbucket.org/repo/yLrxrz/images/816107828-Untitled.jpg)
 * Configuration
 * Dependencies
 * Database configuration
