@@ -20,14 +20,14 @@
 	 - a camera to capture the hardware
 
 * Configuration
-     - Download our database from the `Downloads` section
+     - Download our [database](https://bitbucket.org/imhicihu/patrimonio-database/downloads/Patrimonio%20inform%C3%A0tico.fmp12) from the `Downloads` section
 * Dependencies
      - No dependencies
 * Database configuration
      - Since it is custom programmed, this _visual_ database fills our needs.
 * Deployment instructions
-     - Download this database, browse it with your local installed Filemaker. You are set to get insights from your data collected.
-
+     - Download this [database](https://bitbucket.org/imhicihu/patrimonio-database/downloads/Patrimonio%20inform%C3%A0tico.fmp12), browse it with your local installed Filemaker. You are set to get insights from your data collected.
+     - A tutorial can be found here.
 
 ### Contribution guidelines ###
 
