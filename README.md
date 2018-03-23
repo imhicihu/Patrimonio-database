@@ -18,6 +18,7 @@
 	 - [FileMaker Go](https://itunes.apple.com/es/app/filemaker-go-16/id1097917885?mt=8): (mobile version for the ipad or iphone)
 	 - Mac or pc computer
 	 - a camera to capture the hardware
+     - ![IMG_3334.PNG](https://bitbucket.org/repo/yLrxrz/images/2168898345-IMG_3334.PNG)
 
 * Configuration
      - Download our [database](https://bitbucket.org/imhicihu/patrimonio-database/downloads/Patrimonio%20inform%C3%A0tico.fmp12) from the `Downloads` section
@@ -40,4 +41,4 @@
 * Repo owner or admin
      - Contact: `imhicihu` at `gmail` dot `com`
 * Other community or team contact
-     - Contact our Trello board
+     - Contact our [Trello board](https://bitbucket.org/imhicihu/patrimonio-database/addon/trello/trello-board)
