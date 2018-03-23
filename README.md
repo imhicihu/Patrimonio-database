@@ -1,6 +1,6 @@
 # Rationale #
 
-   This document describes the _corpus_ of steps done with the creation of a software custom-solution: a visual database of all hardware that belongs to the institution.
+   This document describes the software that brings a _custom_ solution: a visual database of all hardware related that belongs to the institution.
 
 ### What is this repository for? ###
 
