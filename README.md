@@ -8,7 +8,7 @@
      A software solution to collect data
      
 * Version
-     1.2 (final stage)
+     1.1 (final stage)
 	 ![Untitled.jpg](https://bitbucket.org/repo/yLrxrz/images/816107828-Untitled.jpg)
 
 ### How do I get set up? ###
