@@ -1,9 +1,14 @@
 ![database.png](https://bitbucket.org/repo/yLrxrz/images/4112836837-database.png)
+
      * Lupa (en el extremo superior derecho): buscador general de todos los objetos registrados (sean números, letras o fotos asociadas a un registro) 
 ![Untitled.png](https://bitbucket.org/repo/yLrxrz/images/1010649083-Untitled.png)     
-	 * Clic en la lupa y se desplegará un menu emergente: allí están las últimas búsquedas realizadas
+
+     * Clic en la lupa y se desplegará un menu emergente: allí están las últimas búsquedas realizadas
 ![records.png](https://bitbucket.org/repo/yLrxrz/images/697017932-records.png)
+
      * En el extremo superior izquierdo se muestran todos las resultantes de la búsqueda hecha con la lupa. Clic en sendos triángulos acostados para desplazarse entre los registros.
+![descriptors.png](https://bitbucket.org/repo/yLrxrz/images/4027929707-descriptors.png)
+
      * `Show all:` Muestra todos los registros (son 138 en total)
      * `New Record:` Agrega un nuevo registro
      * `Delete Record:` Elimina el actual registro
