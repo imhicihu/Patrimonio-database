@@ -28,7 +28,7 @@
      - Since it is custom programmed, this _visual_ database fills our needs.
 * Deployment instructions
      - Download this [database](https://bitbucket.org/imhicihu/patrimonio-database/downloads/Patrimonio%20inform%C3%A0tico.fmp12), browse it with your local installed Filemaker. You are set to get insights from your data collected.
-     - A tutorial can be found here.
+     - A tutorial can be found [here](https://bitbucket.org/imhicihu/patrimonio-database/src/1464ed845245/tutorial.md?at=master&fileviewer=file-view-default).
 
 ### Contribution guidelines ###
 
