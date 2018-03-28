@@ -18,9 +18,13 @@
 	 - [FileMaker Go](https://itunes.apple.com/es/app/filemaker-go-16/id1097917885?mt=8): (mobile version for the ipad or iphone)
 	 - Mac or pc computer
      - [Speccy](https://www.ccleaner.com/speccy): software to collect internal data about all the components inside a pc, ie: motherboard's model, graphic card capacity, size of hard drive, _et alia_.
+     
      ![e1_speccy_1.png](https://bitbucket.org/repo/yLrxrz/images/856505147-e1_speccy_1.png)
+     
 	 - a camera to capture the hardware
+     
      - ![IMG_3334.PNG](https://bitbucket.org/repo/yLrxrz/images/2168898345-IMG_3334.PNG)
+
 
 * Configuration
      - Download our [database](https://bitbucket.org/imhicihu/patrimonio-database/downloads/Patrimonio%20inform%C3%A0tico.fmp12) from the `Downloads` section
