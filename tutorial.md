@@ -17,4 +17,4 @@
 * `Show all:` Show all records that form your database
 * `New Record:` Append a new record to your database
 * `Delete Record:` Delete the current record
-* `Find:` Searcher that use another routine. Click over the Find button and it will bring a second window. It will search especifically with a certain condition: ie. `Laserjet`, it will found all Laserjet records that meet with that search criteria.  To toggle between all those found objetcs, just click over `Thumbnails` or go to the upper left portion of the screen and click over every triangle.
+* `Find:` Searcher that use another routine. Click over the Find button and it will bring a second window. It will search especifically a certain condition: ie. `Laserjet`, it will found all Laserjet records that meet with that search criteria.  To toggle between all those found objects, just click over `Thumbnails` or go to the upper left portion of the screen and click over every triangle.
