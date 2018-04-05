@@ -9,7 +9,7 @@
 ### What is this repository for? ###
 
 * Quick summary
-     - A custom, _in-house_ software solution to collect objects and search them visually. A _plus_: a spatial built-in searcher.
+     - A custom, _in-house_ software solution to collect objects and search them visually. A _plus_: a spatial built-in searcher. 
      
 * Version
      - 1.1 (final stage)
