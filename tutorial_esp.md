@@ -7,7 +7,8 @@
 ![laserjet.png](https://bitbucket.org/repo/yLrxrz/images/3024816912-laserjet.png)  
 
  * Clic en la lupa y se desplegará un menu emergente: allí están las últimas búsquedas realizadas
-![records.png](https://bitbucket.org/repo/yLrxrz/images/697017932-records.png)
+
+![records.png](https://bitbucket.org/repo/yLrxrz/images/1189765002-records.png)
 
  * En el extremo superior izquierdo se muestran todos las resultantes de la búsqueda hecha con la lupa. Clic en sendos triángulos acostados para desplazarse entre los registros.
 ![descriptors.png](https://bitbucket.org/repo/yLrxrz/images/4027929707-descriptors.png)
