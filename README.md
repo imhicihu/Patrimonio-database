@@ -1,15 +1,18 @@
 # Rationale #
 
-   This document describes the software that brings a _custom_ solution: a visual database of all hardware related that belongs to the institution.
+* This document describes the software that brings a _custom_ solution: a visual database of all hardware that belongs to the institution
+* It comes with an inner searcher that shows a visual representation of the object searched with all the linked metadata already gathered
+   
+   ![database-visual.png](https://bitbucket.org/repo/yLrxrz/images/1038236768-database-visual.png)
 
 ### What is this repository for? ###
 
 * Quick summary
-     - A software solution to collect data
+     - A custom, _in-house_ software solution to collect objects and search them visually. A _plus_: a spatial built-in searcher.
      
 * Version
      - 1.1 (final stage)
-	 ![Untitled.jpg](https://bitbucket.org/repo/yLrxrz/images/816107828-Untitled.jpg)
+	
 
 ### How do I get set up? ###
 
