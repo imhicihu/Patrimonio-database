@@ -11,7 +11,8 @@
 ![records.png](https://bitbucket.org/repo/yLrxrz/images/1189765002-records.png)
 
  * En el extremo superior izquierdo se muestran todos las resultantes de la búsqueda hecha con la lupa. Clic en sendos triángulos acostados para desplazarse entre los registros.
-![descriptors.png](https://bitbucket.org/repo/yLrxrz/images/4027929707-descriptors.png)
+
+![descriptors.png](https://bitbucket.org/repo/yLrxrz/images/423217680-descriptors.png)
 
  * Show all: Muestra todos los registros (son 138 en total)
  * New Record: Agrega un nuevo registro
