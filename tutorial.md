@@ -4,9 +4,9 @@
 
 
 * Magnifying glass (upper right section): searcher of all records gathered (numbers, words or photos associated with a certain record) 
-![Untitled.png](https://bitbucket.org/repo/yLrxrz/images/1010649083-Untitled.png)     
 
-
+![laserjet.png](https://bitbucket.org/repo/yLrxrz/images/3024816912-laserjet.png)
+    
 * Click on the magnifying glass and it will display a pulldown menu: there will be all the last queries made
 ![records.png](https://bitbucket.org/repo/yLrxrz/images/697017932-records.png)
 
