@@ -3,7 +3,8 @@
 ![database.png](https://bitbucket.org/repo/yLrxrz/images/2475746167-database.png)
 
  * Lupa (en el extremo superior derecho): buscador general de todos los objetos registrados (sean números, letras o fotos asociadas a un registro) 
-![Untitled.png](https://bitbucket.org/repo/yLrxrz/images/1010649083-Untitled.png)     
+
+![laserjet.png](https://bitbucket.org/repo/yLrxrz/images/3024816912-laserjet.png)  
 
  * Clic en la lupa y se desplegará un menu emergente: allí están las últimas búsquedas realizadas
 ![records.png](https://bitbucket.org/repo/yLrxrz/images/697017932-records.png)
