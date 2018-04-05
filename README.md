@@ -2,6 +2,7 @@
 
 * This document describes the software that brings a _custom_ solution: a visual database of all hardware that belongs to the institution
 * It comes with an inner searcher that shows a visual representation of the object searched with all the linked metadata already gathered
+* There are both tutorials for this solution driven application: [español](https://bitbucket.org/imhicihu/patrimonio-database/src/9d7e216cf31eb8965d1521eb811c9cdef37fcbfe/tutorial_esp.md?at=master) and [english](https://bitbucket.org/imhicihu/patrimonio-database/src/9d7e216cf31eb8965d1521eb811c9cdef37fcbfe/tutorial.md?at=master)
    
    ![database-visual.png](https://bitbucket.org/repo/yLrxrz/images/1038236768-database-visual.png)
 
@@ -22,11 +23,11 @@
 	 - Mac or pc computer
      - [Speccy](https://www.ccleaner.com/speccy): software to collect internal data about all the components inside a pc, ie: motherboard's model, graphic card capacity, size of hard drive, _et alia_.
      
-     ![e1_speccy_1.png](https://bitbucket.org/repo/yLrxrz/images/856505147-e1_speccy_1.png)
+     ![speccy_.png](https://bitbucket.org/repo/yLrxrz/images/3115705095-speccy_.png)
      
 	 - a camera to capture the hardware
      
-     - ![IMG_3334.PNG](https://bitbucket.org/repo/yLrxrz/images/2168898345-IMG_3334.PNG)
+     ![ipad_screencapture.png](https://bitbucket.org/repo/yLrxrz/images/2801391318-ipad_screencapture.png)
 
 
 * Configuration
