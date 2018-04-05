@@ -1,6 +1,6 @@
 ### Tutorial ###
 	
-![database.png](https://bitbucket.org/repo/yLrxrz/images/4112836837-database.png)
+![database.png](https://bitbucket.org/repo/yLrxrz/images/2475746167-database.png)
 
 
 * Magnifying glass (upper right section): searcher of all records gathered (numbers, words or photos associated with a certain record) 
