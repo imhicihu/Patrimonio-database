@@ -2,7 +2,7 @@
 
 * This document describes the software that brings a _custom_ solution: a visual database of all hardware that belongs to the institution
 * It comes with an inner searcher that shows a visual representation of the object searched with all the linked metadata already gathered
-* There are both tutorials for this solution driven application: [espaÃ±ol](https://bitbucket.org/imhicihu/patrimonio-database/src/9d7e216cf31eb8965d1521eb811c9cdef37fcbfe/tutorial_esp.md?at=master) and [english](https://bitbucket.org/imhicihu/patrimonio-database/src/9d7e216cf31eb8965d1521eb811c9cdef37fcbfe/tutorial.md?at=master)
+* There are both tutorials for this solution driven application: [español](https://bitbucket.org/imhicihu/patrimonio-database/src/9d7e216cf31eb8965d1521eb811c9cdef37fcbfe/tutorial_esp.md?at=master) and [english](https://bitbucket.org/imhicihu/patrimonio-database/src/9d7e216cf31eb8965d1521eb811c9cdef37fcbfe/tutorial.md?at=master)
    
    ![database-visual.png](https://bitbucket.org/repo/yLrxrz/images/1038236768-database-visual.png)
 
@@ -20,12 +20,18 @@
 * Summary of set up
      - [FileMaker v12](http://www.filemaker.com/es/products/) (or later)
 	 - [FileMaker Go](https://itunes.apple.com/es/app/filemaker-go-16/id1097917885?mt=8): (mobile version for the ipad or iphone)
-	 - Mac or pc computer
+	 - Mac
+          - Mac OSX Yosemite (or later)
+     - PC
+          - Microsoft Windows 7 (or later)
+     - iOS devices
+          - iPhone, iPad y iPod touch
+          - iOS 10.2 (or later)
      - [Speccy](https://www.ccleaner.com/speccy): software to collect internal data about all the components inside a pc, ie: motherboard's model, graphic card capacity, size of hard drive, _et alia_.
      
      ![speccy_.png](https://bitbucket.org/repo/yLrxrz/images/3115705095-speccy_.png)
      
-	 - a camera to capture the hardware
+	 - a camera device to capture all the devices. It can be a mobile or a digital camera.
      
      ![ipad_screencapture.png](https://bitbucket.org/repo/yLrxrz/images/2801391318-ipad_screencapture.png)
 
