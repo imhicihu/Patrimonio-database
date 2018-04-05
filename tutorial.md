@@ -12,7 +12,8 @@
 
 
 * In the upper left portion of the screen it will show all the records that meets the search criteria made with the built-in searcher. Click on both triangles to toggle between those all those records
-![descriptors.png](https://bitbucket.org/repo/yLrxrz/images/4027929707-descriptors.png)
+
+![descriptors.png](https://bitbucket.org/repo/yLrxrz/images/423217680-descriptors.png)
 
 * `Show all:` Show all records that form your database
 * `New Record:` Append a new record to your database
