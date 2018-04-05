@@ -2,7 +2,7 @@
 
 * This document describes the software that brings a _custom_ solution: a visual database of all hardware that belongs to the institution
 * It comes with an inner searcher that shows a visual representation of the object searched with all the linked metadata already gathered
-* There are both tutorials for this solution driven application: [español](https://bitbucket.org/imhicihu/patrimonio-database/src/9d7e216cf31eb8965d1521eb811c9cdef37fcbfe/tutorial_esp.md?at=master) and [english](https://bitbucket.org/imhicihu/patrimonio-database/src/9d7e216cf31eb8965d1521eb811c9cdef37fcbfe/tutorial.md?at=master)
+* There are both tutorials for this solution driven application: [español](https://bitbucket.org/imhicihu/patrimonio-database/src/28eb9216f679c5aff33624ea292e90bcee0c8c3b/tutorial_esp.md?at=master&fileviewer=file-view-default) and [english](https://bitbucket.org/imhicihu/patrimonio-database/src/28eb9216f679c5aff33624ea292e90bcee0c8c3b/tutorial.md?at=master&fileviewer=file-view-default)
    
    ![database-visual.png](https://bitbucket.org/repo/yLrxrz/images/1038236768-database-visual.png)
 
