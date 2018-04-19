@@ -46,6 +46,11 @@
      - Download this [database](https://bitbucket.org/imhicihu/patrimonio-database/downloads/Patrimonio%20inform%C3%A0tico.fmp12), browse it with your local installed Filemaker. You are set to get insights from your data collected.
      - A tutorial can be found [here](https://bitbucket.org/imhicihu/patrimonio-database/src/1464ed845245/tutorial.md?at=master&fileviewer=file-view-default).
 
+### Issues ###
+
+* Check them on [here](https://bitbucket.org/imhicihu/patrimonio-database/issues) 
+
+
 ### Contribution guidelines ###
 
 * Code review
