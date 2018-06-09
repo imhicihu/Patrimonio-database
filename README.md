@@ -1,6 +1,6 @@
 # Rationale #
 
-* This document describes the software that brings a _custom_ solution: a visual database of all hardware that belongs to the institution
+* This document describes the software that brings a _custom_ solution: a visual database of all hardware assets that belongs to the institution
 * It comes with an inner searcher that shows a visual representation of the object searched with all the linked metadata already gathered
 * There are both tutorials for this solution-driven application: [español](https://bitbucket.org/imhicihu/patrimonio-database/src/28eb9216f679c5aff33624ea292e90bcee0c8c3b/tutorial_esp.md?at=master&fileviewer=file-view-default) and [english](https://bitbucket.org/imhicihu/patrimonio-database/src/28eb9216f679c5aff33624ea292e90bcee0c8c3b/tutorial.md?at=master&fileviewer=file-view-default)
    
@@ -31,7 +31,7 @@
      
      ![speccy_.png](https://bitbucket.org/repo/yLrxrz/images/3115705095-speccy_.png)
      
-	 - a camera device to capture all the devices. It can be a mobile or a digital camera.
+	 - a camera device to capture all the devices. It can be a mobile or a pocket digital camera (preferred).
      
      ![ipad_screencapture.png](https://bitbucket.org/repo/yLrxrz/images/2801391318-ipad_screencapture.png)
 
@@ -41,7 +41,7 @@
 * Dependencies
      - No dependencies
 * Database configuration
-     - Since it is custom programmed, this _visual_ database fills our needs and deadline.
+     - Since it is custom programmed, this _visual_ database fills our needs and deadlines.
 * Deployment instructions
      - Download this [database](https://bitbucket.org/imhicihu/patrimonio-database/downloads/Patrimonio%20inform%C3%A0tico.fmp12), browse it with your local installed Filemaker. You are set to get insights from your data collected.
      - A tutorial can be found [here](https://bitbucket.org/imhicihu/patrimonio-database/src/1464ed845245/tutorial.md?at=master&fileviewer=file-view-default).
@@ -50,6 +50,9 @@
 
 * Check them on [here](https://bitbucket.org/imhicihu/patrimonio-database/issues) 
 
+### Changelog ###
+
+* Please check the [Commits](https://bitbucket.org/imhicihu/patrimonio-database/commits/) section for the current status
 
 ### Contribution guidelines ###
 
