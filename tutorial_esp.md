@@ -14,7 +14,7 @@
 
 ![descriptors.png](https://bitbucket.org/repo/yLrxrz/images/423217680-descriptors.png)
 
- * Show all: Muestra todos los registros (son 138 en total)
- * New Record: Agrega un nuevo registro
- * Delete Record: Elimina el actual registro
- * Find: Buscador que utiliza otra rutina. Clic sobre el botón de Find y lanzará una segunda ventana. En este caso buscará específicamente de acuerdo a la información que se agregue en el campo de búsqueda: Ejemplo: si insertamos en el campo impresora la condición `LaserJet` encontrará todas las impresoras que cumplan con dicha condición. Para desplazarse y ver una por una puede utilizarse dos vías: clic en `Miniaturas` (verán todas las fotos de todas las impresoras que cumplan la condición `LaserJet`) o ir al extremo superior izquierdo, haciendo clic en los triángulos acostados se desplazará uno por uno cada registro encontrado.
+ * `Show all`: Muestra todos los registros (son 138 en total)
+ * `New Record`: Agrega un nuevo registro
+ * `Delete Record`: Elimina el actual registro
+ * `Find`: Buscador que utiliza otra rutina. Clic sobre el botón `Find` y lanzará una segunda ventana. En este caso buscará específicamente de acuerdo a la información que se agregue en el campo de búsqueda. _Ejemplo:_ si insertamos en el campo impresora la condición `LaserJet` encontrará todas las impresoras que cumplan con dicha condición. Para desplazarse y ver una por una puede seguirse dos vías: clic en `Miniaturas` (verán todas las fotos de todas las impresoras que cumplan la condición `LaserJet`) o ir al extremo superior izquierdo, haciendo clic en los triángulos acostados se desplazará uno por uno cada registro encontrado.
