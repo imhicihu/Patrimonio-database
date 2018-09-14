@@ -1,3 +1,6 @@
+![stability-wip](https://img.shields.io/badge/status%3A%20-archived-orange.svg)
+[![Bitbucket issues](https://img.shields.io/badge/issues-closed-green.svg)]()
+
 # Rationale #
 
 * This document describes the software that brings a _custom_ solution: a visual database of all hardware assets that belongs to the institution
