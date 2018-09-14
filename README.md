@@ -68,7 +68,7 @@
 * Repo owner or admin
      - Contact: `imhicihu` at `gmail` dot `com`
 * Other community or team contact
-     - Contact our [Board](https://bitbucket.org/imhicihu/patrimonio-database/addon/trello/trello-board)- (You need a [Trello](https://trello.com/) account)
+     - Contact our [Board](https://bitbucket.org/imhicihu/patrimonio-database/addon/trello/trello-board). (You need a [Trello](https://trello.com/) account)
      
 
 ### Legal ###
