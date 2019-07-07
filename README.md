@@ -9,7 +9,7 @@
 * It comes with an inner searcher that shows a visual representation of the object searched with all the linked metadata already gathered
 * There are both tutorials for this solution-driven application: [español](https://bitbucket.org/imhicihu/patrimonio-database/src/28eb9216f679c5aff33624ea292e90bcee0c8c3b/tutorial_esp.md?at=master&fileviewer=file-view-default) and [english](https://bitbucket.org/imhicihu/patrimonio-database/src/28eb9216f679c5aff33624ea292e90bcee0c8c3b/tutorial.md?at=master&fileviewer=file-view-default)
    
-   ![database-visual.png](https://bitbucket.org/repo/yLrxrz/images/1038236768-database-visual.png)
+   ![database-visual.gif](https://bitbucket.org/repo/yLrxrz/images/1868275068-ezgif-2-2f23a8825338.gif)
 
 ### What is this repository for? ###
 
