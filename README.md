@@ -71,7 +71,11 @@
      - Contact: `imhicihu` at `gmail` dot `com`
 * Other community or team contact
      - Contact our [Board](https://bitbucket.org/imhicihu/patrimonio-database/addon/trello/trello-board). (You need a [Trello](https://trello.com/) account)
-     
+
+### Code of Conduct
+
+* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/patrimonio-database/src/master/code_of_conduct.md)
+
 
 ### Legal ###
 
