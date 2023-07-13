@@ -1,21 +1,20 @@
-![stability-wip](https://bitbucket.org/repo/ekyaeEE/images/3278295154-status_archived.png)
-![Bitbucket issues](https://bitbucket.org/repo/ekyaeEE/images/1555006384-issues_closed.png)
-![internal-wip](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
-
+![stability-wip](images/3278295154-status_archived.png)
+![Bitbucket issues](images/1555006384-issues_closed.png)
+![internal-wip](images/3847436881-internal_use_stable.png)
 
 # Rationale #
 
 * This document describes the software that brings a _custom_ solution: a visual database of all hardware assets that belongs to the institution
 * It comes with an inner searcher that shows a visual representation of the object searched with all the linked metadata already gathered
-* There are both tutorials for this solution-driven application: [español](https://bitbucket.org/imhicihu/patrimonio-database/src/28eb9216f679c5aff33624ea292e90bcee0c8c3b/tutorial_esp.md?at=master&fileviewer=file-view-default) and [english](https://bitbucket.org/imhicihu/patrimonio-database/src/28eb9216f679c5aff33624ea292e90bcee0c8c3b/tutorial.md?at=master&fileviewer=file-view-default)
-   
-   ![database-visual.gif](https://bitbucket.org/repo/yLrxrz/images/1868275068-ezgif-2-2f23a8825338.gif)
+* There are both tutorials for this solution-driven application: [español](tutorial_esp.md) and [english](tutorial.md) 
+<br> </br>
+![database-visual.gif](images/1868275068-ezgif-2-2f23a8825338.gif)
 
 ### What is this repository for? ###
 
 * Quick summary
      - A custom, _in-house_ software solution to collect objects and search them visually. A _plus_: a spatial built-in searcher. 
-     
+ 
 * Version
      - 1.1 (final stage)
 	
@@ -33,23 +32,20 @@
           - iPhone, iPad y iPod touch
           - iOS 10.2 (or later)
      - [Speccy](https://www.ccleaner.com/speccy): software to collect internal data about all the components inside a pc, ie: motherboard's model, graphic card capacity, size of hard drive, _et alia_.
-     
-     ![speccy_.png](https://bitbucket.org/repo/yLrxrz/images/3115705095-speccy_.png)
-     
+     ![speccy_.png](images/3115705095-speccy_.png)
 	 - a camera device to capture all the devices. It can be a mobile or a pocket digital camera (preferred).
-     
-     ![ipad_screencapture.png](https://bitbucket.org/repo/yLrxrz/images/2801391318-ipad_screencapture.png)
+     ![ipad_screencapture.png](images/2801391318-ipad_screencapture.png)
 
 
 * Configuration
-     - Download our [database](https://bitbucket.org/imhicihu/patrimonio-database/downloads/Patrimonio%20inform%C3%A0tico.fmp12) from the `Downloads` section
+     - Download our [database](https://bitbucket.org/imhicihu/patrimonio-database/downloads/) from the `Downloads` folder
 * Dependencies
      - No dependencies
 * Database configuration
      - Since it is custom programmed, this _visual_ database fills our needs and deadlines.
 * Deployment instructions
-     - Download this [database](https://bitbucket.org/imhicihu/patrimonio-database/downloads/Patrimonio%20inform%C3%A0tico.fmp12), browse it with your local installed Filemaker. You are set to get insights from your data collected.
-     - A tutorial can be found [here](https://bitbucket.org/imhicihu/patrimonio-database/src/1464ed845245/tutorial.md?at=master&fileviewer=file-view-default).
+     - Download this [database](https://bitbucket.org/imhicihu/patrimonio-database/downloads/), browse it with your local installed Filemaker. You are set to get insights from your data collected.
+     - A tutorial can be found [here](tutorial.md).
 
 ### Issues ###
 
@@ -57,7 +53,7 @@
 
 ### Changelog ###
 
-* Please check the [Commits](https://bitbucket.org/imhicihu/patrimonio-database/commits/) section for the current status
+* Please check the [Commits](https://github.com/imhicihu/Patrimonio-database/commits/master) section for the current status
 
 ### Contribution guidelines ###
 
@@ -69,13 +65,10 @@
 
 * Repo owner or admin
      - Contact: `imhicihu` at `gmail` dot `com`
-* Other community or team contact
-     - Contact our [Board](https://bitbucket.org/imhicihu/patrimonio-database/addon/trello/trello-board). (You need a [Trello](https://trello.com/) account)
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/patrimonio-database/src/master/code_of_conduct.md)
-
+* Please, check our [Code of Conduct](code_of_conduct.md)
 
 ### Legal ###
 
